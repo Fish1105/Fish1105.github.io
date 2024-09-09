@@ -9,4 +9,4 @@
 
 Source: [Wikipedia](https://www.wikiwand.com/en/articles/Henry_VII_of_England)
 - He secured his claim by marrying Elizabeth of York, daughter of Edward IV and niece of Richard III
-Source: https://www.historyhit.com/facts-about-henry-vii-the-first-tudor-king/
+Source: [HistoryHit]https://www.historyhit.com/facts-about-henry-vii-the-first-tudor-king/
